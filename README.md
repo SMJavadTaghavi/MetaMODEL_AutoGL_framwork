@@ -64,4 +64,4 @@ link : https://github.com/THUMNLab/AutoGL
 
 ---
 
-Developer by: Seyed Mohammad Javad Taghavi Nasab
+Develop by: Seyed Mohammad Javad Taghavi Nasab
