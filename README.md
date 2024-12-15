@@ -58,7 +58,9 @@ The notebook walks through the following:
 
 4. Frameworke Auto Graph Learning:
 link : https://github.com/THUMNLab/AutoGL
-   
+
+
+Developer by: Seyed Mohammad Javad Taghavi Nasab
 
 ---
 
