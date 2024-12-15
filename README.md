@@ -60,10 +60,8 @@ The notebook walks through the following:
 link : https://github.com/THUMNLab/AutoGL
 
 
-Developer by: Seyed Mohammad Javad Taghavi Nasab
+
 
 ---
 
-Feel free to replace placeholders like **Kaggle** and **Gmail** links with your actual information! Let me know if you’d like further refinements.
-
-
+Developer by: Seyed Mohammad Javad Taghavi Nasab
