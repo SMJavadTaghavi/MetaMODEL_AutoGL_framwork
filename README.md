@@ -47,8 +47,9 @@ The notebook walks through the following:
 ## **How to Use**  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/YourUsername/YourRepoName.git
-   cd YourRepoName
+   git clone https://github.com/SMJavadTaghavi/MetaMODEL_AutoGL_framwork.git
+   cd MetaMODEL_AutoGL_framwork
+
    ```  
 2. Install dependencies:  
    ```bash
